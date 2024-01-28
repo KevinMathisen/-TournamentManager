@@ -1,0 +1,5 @@
+<mapIndex> <teamName>
+<member1>
+<member2>
+...
+<member5>

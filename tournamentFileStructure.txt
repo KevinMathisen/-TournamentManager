@@ -1,0 +1,5 @@
+<name>
+<description>
+<numTeams> <currentStage> <bracketType (char)> <finished (0/1)>
+<numTeamsNotPlayed> <team_1 map index (int)> ... <team_n map index (int)>
+<number of matches (int)> <match_1 team_1 map index (int)> <points> <match_1 team_2 map index (int)> <points> <winner (1/2)>... match_n
